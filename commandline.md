@@ -4,6 +4,7 @@ Command-line tools
 iTerm2
 ---
 * [Homepage](https://iterm2.com)
+* [Afterglow color schema](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Afterglow.itermcolors)
 * [Neutron color schema](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Neutron.itermcolors)
 * [SourceCodePro+Powerline+Awesome+Regular Font](https://github.com/gabrielelana/awesome-terminal-fonts/blob/patching-strategy/patched/SourceCodePro%2BPowerline%2BAwesome%2BRegular.ttf)
 * Config
